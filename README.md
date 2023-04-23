@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**Yim119/Yim119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌩️ Caution! Nothing to read for now 🌩️
 
-Here are some ideas to get you started:
+<hr>
+ 
+개발자 지망생
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+#### Choose one
+
+<a href="https://github.com/"><img src="https://user-images.githubusercontent.com/110885515/233823488-620379a0-31ff-4fd7-95ac-19272fd68ac9.png" width="30px" height="40px"></a>
+<a href="https://github.com/Yim119?tab=repositories"><img src="https://user-images.githubusercontent.com/110885515/233823861-0592c260-f0af-48c4-b7f8-207538ec3952.png" width="30px" height="40px"></a>
+
+<hr>
+
+### What I'm learning 📚
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+</div>
